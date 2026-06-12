@@ -4,7 +4,7 @@ Escaner Listas m3u
 
 git clone https://github.com/Raal5909/VegetaTv
 
-cd VegetaTv
+cd ScannerList
 
 ls
 
